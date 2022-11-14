@@ -1,0 +1,138 @@
+[
+    {
+        "field1": "",
+        "field2": "1",
+        "process_name": "Startup process",
+        "process_page": "/Home"
+    },
+    {
+        "field1": "",
+        "field2": "2",
+        "process_name": "Annhme_AbfallAcceptance",
+        "process_page": "/AnnahmeAbfallAcceptanceHome"
+    },
+    {
+        "field1": "",
+        "field2": "3",
+        "process_name": "Annhme_Abfall_Eingangswaage",
+        "process_page": "/AnnahmeAbfallEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "4",
+        "process_name": "Annahme_Klarschlamm",
+        "process_page": "/AnnahmeKlarschlammHome"
+    },
+    {
+        "field1": "",
+        "field2": "5",
+        "process_name": "Annahme_Klarschlamm_Eingangswaage",
+        "process_page": "/AnnahmeKlärschlammEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "6",
+        "process_name": "Annahme_Klarschlammasche",
+        "process_page": "/AnnahmeklarschlammascheHome"
+    },
+    {
+        "field1": "",
+        "field2": "7",
+        "process_name": "Annahme_Klarschlammasche_Eingangswaage",
+        "process_page": "/AnnahmeKlärschlammascheEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "8",
+        "process_name": "Annahme_Klarschlammasche_Terminal",
+        "process_page": "/AnnahmeKlärschlammascheTerminalHome"
+    },
+    {
+        "field1": "",
+        "field2": "9",
+        "process_name": "Abnahme_Schlacke_Acceptance",
+        "process_page": "/AbnahmeSchlackeAcceptanceHome"
+    },
+    {
+        "field1": "",
+        "field2": "10",
+        "process_name": "Abnahme_Schlacke_Eingangswaage",
+        "process_page": "/AbnahmeSchlackeEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "11",
+        "process_name": "Annahme_Ammonia_Kwasser",
+        "process_page": "/AnnahmeAmmoniakwasserHome"
+    },
+    {
+        "field1": "",
+        "field2": "12",
+        "process_name": "Annahme_Ammonia_Kwasser_Eingangswaage",
+        "process_page": "/AnnahmeAmmoniakwasserEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "13",
+        "process_name": "Annahme_Flugasche",
+        "process_page": "/AnnahmeFlugascheHome"
+    },
+    {
+        "field1": "",
+        "field2": "14",
+        "process_name": "Annahme_Flugasche_Eingangswaage",
+        "process_page": "/AnnahmeFlugascheEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "15",
+        "process_name": "Annahme_Flugasche_Terminal",
+        "process_page": "/AnnahmeFlugascheTerminalHome"
+    },
+    {
+        "field1": "",
+        "field2": "16",
+        "process_name": "Annahme_Kalk",
+        "process_page": "/AnnahmeKalkHome"
+    },
+    {
+        "field1": "",
+        "field2": "17",
+        "process_name": "Annahme_Kalk_Eingangswaage",
+        "process_page": "/AnnahmeKalkEingangswaageHome"
+    },
+    {
+        "field1": "",
+        "field2": "18",
+        "process_name": "Annahme_Kalk_Terminal",
+        "process_page": "/AnnahmeKalkTerminalHome"
+    },
+    {
+        "field1": "",
+        "field2": "19",
+        "process_name": "Annahme_Nabi",
+        "process_page": "/AnnahmeNabiHome"
+    },
+    {
+        "field1": "",
+        "field2": "20",
+        "process_name": "Annahme_Nabi_Eingangswaage",
+        "process_page": "/AnnahmeNabiEingangswaagehome"
+    },
+    {
+        "field1": "",
+        "field2": "21",
+        "process_name": "Annahme_Nabi_Terminal",
+        "process_page": "/AnnahmeNabiTerminalHome"
+    },
+
+    {
+        "field1": "",
+        "field2": "22",
+        "process_name": "EVODashboard",
+        "process_page": "/DashboardHome1"
+    }
+]
+
+
+

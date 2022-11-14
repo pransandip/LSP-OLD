@@ -1,0 +1,267 @@
+.tablemain{
+  /* position: absolute; */
+  left: 0;
+  background: #fff;
+  z-index: 1500;
+  overflow-y: auto;
+  width: 250px;
+  height: calc(80vh - 10px);
+}
+.overflow{
+  /* overflow-y: auto;
+  height: 100%; */
+}
+.tableHederText{
+  font-size: 14px;
+  font-weight: bold;
+  padding-left: 20px;
+  text-align: center;
+}
+.imagemain{
+  width:100%;
+}
+.tablemain .trmain{
+  border-color: black !important;
+  border-style: solid !important; 
+  border-width: 1px !important;
+  padding: 4px;
+}
+.trmain td{
+  display: flex;
+  justify-content: space-between;
+}
+.tablemain thead{
+display: block;
+/* border: 1px solid #999; */
+} 
+.tablemain tr{
+display: block;
+/* border: 1px solid #999; */
+border-collapse: collapse;
+}
+.model_custom .modal-body{
+display: flex;
+flex-direction: column;
+padding: 10px 15px;
+}
+.model_custom .modal-dialog{
+width: 70px;
+margin: 1.75rem 220px;
+}
+
+.model_custom .sr-only{
+font-size: 0;
+display: none;
+}
+ .sr-only{
+  font-size: 0;
+  display: none;
+  }
+  .closebutton button{
+    border: none;
+    background: none;
+    font-size: 40px;
+    line-height: 0;
+  }
+.model_custom .modal-header{
+display: flex;
+border-bottom: 0;
+justify-content: flex-end;
+padding: 10px 0px;
+}
+.model_custom button{
+background: none;
+border: none;
+font-size: 25px;
+line-height: 0;
+}
+.icon_book{
+  width: 50px;
+ text-align: center !important;
+  cursor: pointer;
+}
+.popup_txt::after{
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-width: 0 0 12px 12px;
+  height: 0;
+  width: 0;
+  border-color: transparent;
+  border-bottom-color: #000;
+  /* transform: rotate(496deg);
+  left: -5px; */
+  transform: rotate(225deg);
+  left: 93px;
+  top: -5px;
+}
+.extra_field p{
+  margin-bottom: 0;
+}
+.extra_field td{
+  vertical-align: text-top;
+}
+.popup_txt label{
+  display: flex;
+  align-items: center;
+}
+.clear_btn{
+  margin-left: 10px;
+  border: none;
+  background: #3e6ca6;
+  color: white;
+}
+
+.tooltip {
+  display: inline-block;
+  opacity: 1 !important;
+  position: relative !important;
+  z-index: auto !important;
+}
+
+.none_display{
+  display: none;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 110px;
+  background-color: black;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 5px 10px;
+  position: absolute;
+  /* left: 32px; */
+  left: -92px;
+  top: 21px;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+.popup_txt {
+  display: flex;
+  position: absolute;
+    left: -45px;
+  flex-direction: column;
+}
+.click_popup{
+  cursor: pointer;
+}
+.key_value td{
+  /* border: 1px solid black; */
+    padding: 6px 10px;
+}
+.key_value{
+  width: 100%;
+}
+
+.inner_main{
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+  width: 77%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.grid
+{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.presenter {
+  
+  flex-grow: 9999;
+}
+.sidebar-left{
+  width: 365px;
+  height: 100vh;
+  position: fixed;
+  z-index: 999;
+  background-color: #fff;
+  border: 1px solid #e8e8e8;
+}
+.mid-pnl-right{
+
+  width: 100%;
+  padding-left: 380px;
+
+}
+.source{
+  flex-grow: 9999;
+}
+
+.bg_true{
+  background-color: black;
+}
+.count1{
+  left: 282px;
+  top: 108px;
+}
+.count2{
+  left: 282px;
+  top: 148px;
+}
+.count3{
+  left: 282px;
+  top: 186px;
+}
+.count4{
+  left: 282px;
+  top: 224px;
+}
+.count5{
+  left: 282px;
+  top: 263px;
+}
+.count6{
+  left: 282px;
+  top: 300px;
+}
+.count7{
+  left: 282px;
+  top: 340px;
+}
+.count8{
+  left: 282px;
+  top: 378px;
+}
+.common_inner{
+  position: absolute;
+  z-index: 9;
+  color: white;
+  font-size: 24px;
+}
+.image_main{
+  margin: auto;
+  max-width: 1400px !important;
+  max-height : 1000px !important;
+}
+.tablemain tr{
+  background-color: #83a2c1;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+#simple-tabpanel-2 .css-19kzrtu{
+  padding: 24px 14px;
+}

@@ -45,7 +45,7 @@ const Login = (props) => {
         });
         console.log({ token });
         // if (token !== 'Not valid credentials!!') 
-        if (token == 'Not valid credentials!!') {
+        if (token !== 'Not valid credentials!!') {
 
             localStorage.setItem("auth_token", token.token);
             localStorage.setItem("role", token.role);
